@@ -1,1 +1,1 @@
-Teste de como introduzir texto utilizando reconhecimento de voz.
+Test of how to input text using voice recognition.
